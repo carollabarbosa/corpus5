@@ -1,5 +1,5 @@
 # corpus5
-acurácia 82% detecção de fake news 1500 notícias 
+Primeiro teste : acurácia 82% detecção de fake news 1500 notícias 
 
 Noticias 
 Fontes que utilizei: CNN, G1, BBC,  Daily News, Foreign Affair, Twitter**,  Metrópoles, R7, AFP, Aos Fatos, E-Farsas, Fake.Br(Corpus Prof Tiago Pardo e Roney Lira USP).
@@ -17,3 +17,5 @@ Maiorias das noticias são de 2020-2022 com foco em pandemia, guerra e eleiçõe
 5. Economia
 6. Entretenimento
 
+Palavras Chaves dos temas relacionados: Covid, Covid-19, Pandemia , Guerra, Ucrânia, Rússia, Eleições 2022,
+Vacina, Variola, Meio Ambiente. 
